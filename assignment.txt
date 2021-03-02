@@ -1,3 +1,0 @@
-Exercise in PUI Lab 04
-February 23, 2021
-Written by David Domalik in Vim
